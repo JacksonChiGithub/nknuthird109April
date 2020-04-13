@@ -1,4 +1,8 @@
 #Hello World!
 
-Hi Human~
-It's my first git change test.
+
+Hi human~
+It's my first git change in edit on git!!
+Author: CHI
+Date:   2020/04/13
+
